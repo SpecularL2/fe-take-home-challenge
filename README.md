@@ -1,4 +1,4 @@
-# Getting Started
+# Connect Four Frond-End Engineering Challenge
 
 This challenge provides you an opportunity to demonstrate the following:
 * familiarity with React and related tools
