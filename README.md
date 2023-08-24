@@ -32,7 +32,8 @@ To get the code for the repository:
 
 In the project directory, you can run to get a test server started:
 
-``` > npm start
+```
+ > npm start
 ````
 
 Then open [http://localhost:3000](http://localhost:3000) to view it in your browser.
